@@ -8,7 +8,7 @@ class  Demo
 class Test{
 	public static void main(String[] args) {
 		System.out.println(Demo.a);
-		syso
+		
 		System.out.println("yEs  Commit");
 	}
 }
