@@ -2,7 +2,7 @@ package program;
 
 public class Test {
 	
-	public void getCity() {
+	public void Test() {
 		System.out.println("Hyderabad");
 			
 	}	
@@ -13,7 +13,7 @@ public class Test {
 	 }
 	public static void main(String[] args) {
 		Demo demo = new Demo();
-		demo.getCity();
+		demo.Test();
 		demo.getCity();
 	}
 }
